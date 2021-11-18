@@ -1,0 +1,20 @@
+{
+     "ClientDatabase": {
+          "Host": "127.0.0.1",
+        "Username": "root",
+        "Password": "root",
+        "Database":  "chat",
+        "Port":  "3306",
+        "MaxOpenConnections": 20,
+                "MaxIdleConnections": 10
+    },
+ 
+    "Port1":"8018",
+        "Jira": {
+                "Host": "apichat.atlassian.net",
+                "Username": "apichat@salesjio.com",
+                "ApiKey":  "Ra3k22uLL4wI8lpbLHBQ6F9E",
+                "ProjectKey" : "MC",
+                "AssigneeId" : "613062196fa73c006a880a9e"
+        }
+}
